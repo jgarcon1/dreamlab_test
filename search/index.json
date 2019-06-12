@@ -1,0 +1,225 @@
+---
+layout: none
+---
+[
+  {
+    "pid": "obj_12",
+    "label": "Francois Duvalier with member of his cabinet",
+    "_date": null,
+    "description": "François Duvalier and member of his government inside of the National Palace.",
+    "type": "photograph",
+    "collection": "haiti",
+    "thumbnail": "/img/derivatives/iiif/images/obj_12/full/250,/0/default.jpg",
+    "permalink": "/haiti/obj_12",
+    "lunr_id": 0
+  },
+  {
+    "pid": "obj_9",
+    "label": "Mouvement Patriotique Haitien members",
+    "_date": "September 1963",
+    "description": "Clement S. Benoit, ex-consul General and leader of Mouvement Patriotique Haitien, an is photographed at at the airport in Nassau awaiting a flight to Miami by order of the Bahamian government.",
+    "type": "photograph",
+    "collection": "haiti",
+    "thumbnail": "/img/derivatives/iiif/images/obj_9_obj_9a/full/250,/0/default.jpg",
+    "permalink": "/haiti/obj_9",
+    "lunr_id": 1
+  },
+  {
+    "pid": "obj_16",
+    "label": "Tontons Macoutes",
+    "_date": null,
+    "description": "Tontons Macoutes are photographed at attention and surround Madame Max Adolphe, head warden of Fort Dimanche prison and Supreme Head of the Fillette Laleau, a female branch of the Tontons Macoutes",
+    "type": "photograph",
+    "collection": "haiti",
+    "thumbnail": "/img/derivatives/iiif/images/obj_16/full/250,/0/default.jpg",
+    "permalink": "/haiti/obj_16",
+    "lunr_id": 2
+  },
+  {
+    "pid": "obj_8",
+    "label": "Celebration of the overthrow of Jean-Claude Duvalier",
+    "_date": "January 1986",
+    "description": "Haitian residents in Miami celebrate an erroneous report of the fall of the Duvalier dictatorship",
+    "type": "photograph",
+    "collection": "haiti",
+    "thumbnail": "",
+    "permalink": "/haiti/obj_8",
+    "lunr_id": 3
+  },
+  {
+    "pid": "obj_17",
+    "label": "François Duvalier and Simone Duvalier",
+    "_date": "October 1965",
+    "description": "Francois Duvalier and first lady Simone Duvalier are pictured with cabinet members and members of the Haitian army.",
+    "type": "photograph",
+    "collection": "haiti",
+    "thumbnail": "/img/derivatives/iiif/images/obj_17/full/250,/0/default.jpg",
+    "permalink": "/haiti/obj_17",
+    "lunr_id": 4
+  },
+  {
+    "pid": "obj_13",
+    "label": "Francois Duvalier in National Palace",
+    "_date": null,
+    "description": "François Duvalier seated with foreign dignitary and his cabinet secretaries. ",
+    "type": "photograph",
+    "collection": "haiti",
+    "thumbnail": "/img/derivatives/iiif/images/obj_13/full/250,/0/default.jpg",
+    "permalink": "/haiti/obj_13",
+    "lunr_id": 5
+  },
+  {
+    "pid": "obj_7",
+    "label": "Dechoukaj in Little Haiti",
+    "_date": "January 1986",
+    "description": "Haitian residing in the Little Haiti section of Miami celebrate the fall of the Duvalier dictatorship after issuance of an erroneous statement from the US government ",
+    "type": "photograph",
+    "collection": "haiti",
+    "thumbnail": "",
+    "permalink": "/haiti/obj_7",
+    "lunr_id": 6
+  },
+  {
+    "pid": "obj_18",
+    "label": "Mouvement Patriotique Haitien members",
+    "_date": "1961",
+    "description": "Member of the anti-government group, Mouvement Patriotique Haïtien",
+    "type": "photograph",
+    "collection": "haiti",
+    "thumbnail": "/img/derivatives/iiif/images/obj_18_IMG_0548/full/250,/0/default.jpg",
+    "permalink": "/haiti/obj_18",
+    "lunr_id": 7
+  },
+  {
+    "pid": "obj_3",
+    "label": "Anchors at Radio Haiti",
+    "_date": "1979",
+    "description": "Marvel Dandin, Liliane Pierre-Paul, and Sony Bastien anchoring the evening newspaper, Format 30 on 1330 on Radio Haiti-Inter",
+    "type": "photograph",
+    "collection": "haiti",
+    "thumbnail": "/img/derivatives/iiif/images/obj_3/full/250,/0/default.jpg",
+    "permalink": "/haiti/obj_3",
+    "lunr_id": 8
+  },
+  {
+    "pid": "obj_2",
+    "label": "Jean Dominique viewing Je Suis Belle Movie Poster",
+    "_date": "June 1962",
+    "description": "Jean Dominique, owner and anchor of Radio Haiti, looks on at a promotional poster for Haiti's first documentary film, an ironic film about Caribbean beauty pageants. Dominique's cinema club was banned by François Duvalier for showing Alain Resnais's Holocaust documentary, Night and Fog.  ",
+    "type": "photograph",
+    "collection": "haiti",
+    "thumbnail": "/img/derivatives/iiif/images/obj_2/full/250,/0/default.jpg",
+    "permalink": "/haiti/obj_2",
+    "lunr_id": 9
+  },
+  {
+    "pid": "obj_6",
+    "label": "Cartoon of Jean-Claude Duvalier",
+    "_date": "1971",
+    "description": "Cartoon of Jean-Claude Duvalier, who became president-for-life after his father's passing in 1971. ",
+    "type": "cartoon",
+    "collection": "haiti",
+    "thumbnail": "/img/derivatives/iiif/images/obj_6_obj_6a/full/250,/0/default.jpg",
+    "permalink": "/haiti/obj_6",
+    "lunr_id": 10
+  },
+  {
+    "pid": "obj_19",
+    "label": "Jean-Claude Duvalier delivers speech",
+    "_date": null,
+    "description": "Jean-Claude Duvalier delivers a speech with his mother, SImone Duvalier, looking on. ",
+    "type": "photograph",
+    "collection": "haiti",
+    "thumbnail": "/img/derivatives/iiif/images/obj_19_obj_19b/full/250,/0/default.jpg",
+    "permalink": "/haiti/obj_19",
+    "lunr_id": 11
+  },
+  {
+    "pid": "obj_1",
+    "label": "Protests against Jean-Claude Duvalier",
+    "_date": "1985",
+    "description": "Hundreds of protesters march against Jean-Claude Duvalier, particularly changes to the Constitution. Many call for the army to overthrow the dictatorship ",
+    "type": "photograph",
+    "collection": "haiti",
+    "thumbnail": "/img/derivatives/iiif/images/obj_1/full/250,/0/default.jpg",
+    "permalink": "/haiti/obj_1",
+    "lunr_id": 12
+  },
+  {
+    "pid": "obj_5",
+    "label": "Anti-Duvalier postcard",
+    "_date": null,
+    "description": null,
+    "type": "postcard",
+    "collection": "haiti",
+    "thumbnail": "/img/derivatives/iiif/images/obj_5/full/250,/0/default.jpg",
+    "permalink": "/haiti/obj_5",
+    "lunr_id": 13
+  },
+  {
+    "pid": "obj_4",
+    "label": "Staff of Radio Haiti-Inter",
+    "_date": null,
+    "description": "Jean Dominique, and the staff of Radio Haiti-Inter",
+    "type": "photograph",
+    "collection": "haiti",
+    "thumbnail": "/img/derivatives/iiif/images/obj_4/full/250,/0/default.jpg",
+    "permalink": "/haiti/obj_4",
+    "lunr_id": 14
+  },
+  {
+    "pid": "obj_14",
+    "label": "Jean-Claude Duvalier and Michele Bennett",
+    "_date": null,
+    "description": "Jean-Claude Duvalier and first lady Michele Bennett attend an official ceremony.",
+    "type": "photograph",
+    "collection": "haiti",
+    "thumbnail": "/img/derivatives/iiif/images/obj_14/full/250,/0/default.jpg",
+    "permalink": "/haiti/obj_14",
+    "lunr_id": 15
+  },
+  {
+    "pid": "obj_20",
+    "label": "Jean-Claude Duvalier and First Lady Michele Bennett",
+    "_date": null,
+    "description": "Jean-Claude Duvalier and Michelle Duvalier stand in front of L'Eglise St. Pierre a Baraderes to confer military honors. ",
+    "type": "photograph",
+    "collection": "haiti",
+    "thumbnail": "/img/derivatives/iiif/images/obj_20_obj_20a/full/250,/0/default.jpg",
+    "permalink": "/haiti/obj_20",
+    "lunr_id": 16
+  },
+  {
+    "pid": "obj_10",
+    "label": "Pro-Duvalier march in Port-au-Prince",
+    "_date": null,
+    "description": "Thousands attend a march in support of the Duvalier regime. ",
+    "type": "photograph",
+    "collection": "haiti",
+    "thumbnail": "/img/derivatives/iiif/images/obj_10/full/250,/0/default.jpg",
+    "permalink": "/haiti/obj_10",
+    "lunr_id": 17
+  },
+  {
+    "pid": "obj_11",
+    "label": "Anti-Duvalier march in Washington, DC",
+    "_date": "1974",
+    "description": "Protestors, demanding that the US break ties with the Haitian government, gather outside of the White House. Many had fled Haiti and resettled in the US",
+    "type": "photograph",
+    "collection": "haiti",
+    "thumbnail": "",
+    "permalink": "/haiti/obj_11",
+    "lunr_id": 18
+  },
+  {
+    "pid": "obj_15",
+    "label": "Jean-Claude Duvalier greets crowd",
+    "_date": null,
+    "description": "Jean-Claude Duvalier holds a pistol, as he and his mother Simone Duvalier, greet a crowd.",
+    "type": "photograph",
+    "collection": "haiti",
+    "thumbnail": "/img/derivatives/iiif/images/obj_15/full/250,/0/default.jpg",
+    "permalink": "/haiti/obj_15",
+    "lunr_id": 19
+  }
+]

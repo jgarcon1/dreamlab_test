@@ -1,0 +1,66 @@
+---
+layout: none
+---
+{
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/sequence/obj_18_IMG_0548.json",
+  "@type": "sc:Sequence",
+  "canvases": [
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/obj_18_IMG_0548.json",
+      "label": "Page 1",
+      "width": 2208,
+      "height": 1762,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj_18_IMG_0548/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/obj_18_IMG_0548.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj_18_IMG_0548/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj_18_IMG_0548",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 2208,
+            "height": 1762
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/obj_18_IMG_0548.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/obj_18_obj_18a.json",
+      "label": "Page 2",
+      "width": 2268,
+      "height": 1774,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj_18_obj_18a/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/obj_18_obj_18a.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj_18_obj_18a/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj_18_obj_18a",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 2268,
+            "height": 1774
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/obj_18_obj_18a.json"
+        }
+      ]
+    }
+  ],
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}
