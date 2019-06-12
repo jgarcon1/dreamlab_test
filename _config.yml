@@ -18,9 +18,9 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Wax'
+title:            'Media under Duvalier'
 description:      'Minimal Exhibitions with Jekyll'
-url:              'https://minicomp.github.io'
+url:              'https://jgarcon1.github.io'
 baseurl:          '/wax'
 copyright:        'Example copyright org, 2019'
 logo:             '/assets/logo.png'
