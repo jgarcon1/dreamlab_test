@@ -8,9 +8,12 @@ banner:
   height: '500px'
 ---
 
-__Wax__ is a [minimal computing](http://go-dh.github.io/mincomp/) project for producing digital exhibitions focused on longevity, low costs, and flexibility. Our underlying technology is made to learn and to teach, and can produce beautifully rendered, high-quality image collections and scholarly exhibits. To start using Wax, please see our [documentation](https://minicomp.github.io/wiki/#/wax/) for installation instructions and more.
+__Free Press and the Duvaliers__ is a small portion of the nearly one thousand archival images, ephemera, and documents collected during the course my of dissertation research. My project, which investigates the impact of new media technology, including radio broadcasting, audio cassette recordings, and mimeograph print, contributes to the growth of anti-government sentiment during the latter years of the Duvalier regime (1957-1986) in Haiti. The materials shown here were compiled from institutional repositories, history museum collections, and the personal archives of Haitian migrants. As such, this collection ventures to bring together materials spread across 12 cities, 7 countries, and two continents.
 
-The collection items in this demo are from The Museum of Islamic Art, Qatar, (courtesy of [WikiMedia](https://commons.wikimedia.org/wiki/Category:Google_Art_Project_works_in_The_Museum_of_Islamic_Art,_Qatar) and [Google Art Project](https://www.google.com/culturalinstitute/about/artproject/)) and The Qatar National Library (via [World Digital Library](https://www.wdl.org/en/)).
+
+This site was built with __Wax__ a [minimal computing](http://go-dh.github.io/mincomp/) project for producing digital exhibitions focused on longevity, low costs, and flexibility. Our underlying technology is made to learn and to teach, and can produce beautifully rendered, high-quality image collections and scholarly exhibits. To start using Wax, please see our [documentation](https://minicomp.github.io/wiki/#/wax/) for installation instructions and more.
+
+
 
 ### Browse the Collection
 

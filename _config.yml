@@ -18,7 +18,7 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Media under Duvalier'
+title:            'Free Press and the Duvaliers'
 description:      'Minimal Exhibitions with Jekyll'
 url:              'https://jgarcon1.github.io'
 baseurl:          '/dreamlab_test'
@@ -110,9 +110,9 @@ menu:
         link: '/credits/'
   - label: 'Exhibits'
     sub:
-      - label: 'Media Resistance to Authoritarianism'
-        link: '/exhibits/a/'
       - label: 'Public Displays of State Force'
+        link: '/exhibits/a/'
+      - label: 'Media Resistance to Authoritarianism'
         link: '/exhibits/b/'
   - label: 'Browse'
     link: '/collection/'
