@@ -1,7 +1,7 @@
 ---
 pid: obj_4
 label: Staff of Radio Haiti-Inter
-_date: 
+_date:
 description: Jean Dominique, and the staff of Radio Haiti-Inter
 type: photograph
 location: Port-au-Prince, Haiti

@@ -21,7 +21,7 @@
 title:            'Media under Duvalier'
 description:      'Minimal Exhibitions with Jekyll'
 url:              'https://jgarcon1.github.io'
-baseurl:          '/wax'
+baseurl:          '/dreamlab_test'
 copyright:        'Example copyright org, 2019'
 logo:             '/assets/logo.png'
 
@@ -110,16 +110,15 @@ menu:
         link: '/credits/'
   - label: 'Exhibits'
     sub:
-      - label: 'Inline Parallax Image'
+      - label: 'Media Resistance to Authoritarianism'
         link: '/exhibits/a/'
-      - label: 'Inline Image References'
+      - label: 'Public Displays of State Force'
         link: '/exhibits/b/'
   - label: 'Browse'
     link: '/collection/'
   - label: 'Search'
     link: '/search/'
-  - label: 'Reuse'
-    link: '/reuse/'
+
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS

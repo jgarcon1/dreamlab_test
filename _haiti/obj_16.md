@@ -1,7 +1,7 @@
 ---
 pid: obj_16
 label: Tontons Macoutes
-_date: 
+_date:
 description: Tontons Macoutes are photographed at attention and surround Madame Max
   Adolphe, head warden of Fort Dimanche prison and Supreme Head of the Fillette Laleau,
   a female branch of the Tontons Macoutes

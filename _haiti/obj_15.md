@@ -1,9 +1,9 @@
 ---
 pid: obj_15
 label: Jean-Claude Duvalier greets crowd
-_date: 
+_date:
 description: Jean-Claude Duvalier holds a pistol, as he and his mother Simone Duvalier,
-  greet a crowd.
+  greet a crowd
 type: photograph
 location: Haiti
 source: CIDHCHA Research Center

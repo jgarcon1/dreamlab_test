@@ -3,7 +3,7 @@ layout: page
 show_title: false
 banner:
   collection: haiti
-  pid: obj_3
+  pid: obj_1
   y: 25%
   height: '500px'
 ---

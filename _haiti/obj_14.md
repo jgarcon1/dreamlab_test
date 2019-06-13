@@ -1,9 +1,9 @@
 ---
 pid: obj_14
 label: Jean-Claude Duvalier and Michele Bennett
-_date: 
+_date:
 description: Jean-Claude Duvalier and first lady Michele Bennett attend an official
-  ceremony.
+  ceremony
 type: photograph
 location: Haiti
 source: CIDHCHA Research Center

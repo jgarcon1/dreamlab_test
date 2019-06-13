@@ -1,8 +1,8 @@
 ---
 pid: obj_10
 label: Pro-Duvalier march in Port-au-Prince
-_date: 
-description: 'Thousands attend a march in support of the Duvalier regime. '
+_date:
+description: Thousands attend a march in support of the Duvalier regime 
 type: photograph
 location: Port-au-Prince, Haiti
 source: CIDHCHA Research Center
