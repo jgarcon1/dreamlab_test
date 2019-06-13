@@ -3,7 +3,7 @@ pid: obj_1
 label: Protests against Jean-Claude Duvalier
 _date: '1985'
 description: 'Hundreds of protesters march against Jean-Claude Duvalier, particularly
-  changes to the Constitution. Many call for the army to overthrow the dictatorship '
+  changes to the Constitution. Many call for the army to overthrow the dictatorship.'
 type: photograph
 location: Haiti
 source: HistoryMiami Archives
